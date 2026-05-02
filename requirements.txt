@@ -1,0 +1,12 @@
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+openai

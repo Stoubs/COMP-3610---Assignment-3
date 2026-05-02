@@ -1,0 +1,21 @@
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+# generated data / model artifacts
+chroma_db/
+output/
+data/
+*.parquet
+qa_results.json
+*.csv
+
+# local environment
+.env
+.venv/
+venv/
